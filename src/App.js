@@ -10,7 +10,7 @@ function App() {
       <Header />
       <main className='py-3'>
         <Container>
-          <Homescreen/>
+          <Homescreen />
         </Container>
       </main>
       <Footer/>
